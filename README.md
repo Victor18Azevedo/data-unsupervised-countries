@@ -5,3 +5,5 @@ Objetivo deste trabalho é aplicar os conhecimentos na disciplina de Algorítimo
 Foi desenvolvido utilizando um ambiente virtual conda utilizando Python 3.10.
 
 Segue neste repositório os arquivos [environment.yml](environment.yml) para recriar o ambiente virtual conda utilizado neste trabalho.
+
+repositório GitHub: https://github.com/Victor18Azevedo/data-unsupervised-countries
